@@ -5,7 +5,7 @@
 ### DER
 
 
-
+![DER_universidad_DB](https://github.com/Fauroro/universidad_DB/blob/main/DER_universidad.png?raw=true)
 
 
 ### Creación de la DB y sus Tablas
